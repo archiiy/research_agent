@@ -36,6 +36,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Live url
+[research_agent](https://researchaiagent.streamlit.app/)
+
 ## Future Improvements
 
 - PDF export
