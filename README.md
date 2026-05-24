@@ -1,6 +1,6 @@
-# AI Research Automation System
+# AI Research Agent
 
-An AI-powered research automation platform built using Groq, Tavily, LangChain and Streamlit.
+An AI-powered research agent platform built using Groq API, Tavily, LangChain and Streamlit.
 
 ## Features
 
